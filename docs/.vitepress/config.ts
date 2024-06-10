@@ -1,7 +1,6 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-	
 	lang: 'en-US',
 	title: `Vite 官方中文文档`,
 	description: 'Vite 官方中文文档',
